@@ -63,7 +63,7 @@ total_steps_per_day_with_available_data <- get_steps_per_day(available_data)
 
 A histogram of total steps taken per day:
 
-![](PA1_template_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](https://github.com/Sangu01/Reproducible-Research-Project-2/blob/main/unnamed-chunk-5-1.png?raw=true)<!-- -->
 
 Calculate the mean and median of the total steps taken per day:
 
@@ -83,7 +83,7 @@ average_steps_per_interval_with_available_data <- get_steps_per_interval(availab
 ```
 
 A plot of the average steps taken per interval:
-![](PA1_template_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![](https://github.com/Sangu01/Reproducible-Research-Project-2/blob/main/unnamed-chunk-8-1.png?raw=true)<!-- -->
 
 Find the interval that has the maximum average steps:
 
@@ -121,7 +121,7 @@ for(i in na_indices) {
 ```
 
 A histogram of the total steps per day with the filled in data:
-![](PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/Sangu01/Reproducible-Research-Project-2/blob/main/unnamed-chunk-12-1.png?raw=true)<!-- -->
 
 Calculate the mean and medial total number of steps taken per day with the filled in data:
 
@@ -146,4 +146,4 @@ filled_data$type_of_day <-
 ```
 
 A panel plot that compares steps taken during a weekend vs. a weekday:
-![](PA1_template_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
+![](https://github.com/Sangu01/Reproducible-Research-Project-2/blob/main/unnamed-chunk-15-1.png?raw=true)<!-- -->
